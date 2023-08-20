@@ -1,0 +1,16 @@
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project.csproj.AssemblyReference.cache
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project.csproj.SuggestedBindingRedirects.cache
+D:\BorntoDev\calculate project\calculate project\obj\Debug\MainWindow.g.cs
+D:\BorntoDev\calculate project\calculate project\obj\Debug\App.g.cs
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project_MarkupCompile.cache
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project_MarkupCompile.lref
+D:\BorntoDev\calculate project\calculate project\bin\Debug\calculate project.exe.config
+D:\BorntoDev\calculate project\calculate project\bin\Debug\calculate project.exe
+D:\BorntoDev\calculate project\calculate project\bin\Debug\calculate project.pdb
+D:\BorntoDev\calculate project\calculate project\obj\Debug\MainWindow.baml
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project.g.resources
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate_project.Properties.Resources.resources
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project.csproj.GenerateResource.cache
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project.csproj.CoreCompileInputs.cache
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project.exe
+D:\BorntoDev\calculate project\calculate project\obj\Debug\calculate project.pdb

@@ -1,0 +1,25 @@
+﻿<Window x:Class="calculate_project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculate_project"
+        mc:Ignorable="d"
+        Title="Panjapol" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="button1" Content="คำนวน" HorizontalAlignment="Left" Margin="80,241,0,0" VerticalAlignment="Top" Height="44" Width="120" Click="button1_Click"/>
+        <TextBox x:Name="income" HorizontalAlignment="Center" Margin="0,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192" Height="40" FontSize="30"/>
+        <TextBox x:Name="textbox2" HorizontalAlignment="Center" Margin="0,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" Height="37" FontSize="30"/>
+        <TextBox x:Name="textbox3" HorizontalAlignment="Center" Margin="0,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" Height="37" FontSize="30"/>
+        <TextBox x:Name="textbox4" HorizontalAlignment="Left" Margin="486,245,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" TextChanged="textbox4_TextChanged" Height="36" FontSize="30"/>
+        <TextBlock HorizontalAlignment="Left" Margin="198,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"><Run Language="th-th" Text="รายได้"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="523,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"><Run Language="th-th" Text="บาท/วัน"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="188,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"><Run Language="th-th" Text="รายจ่าย"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="523,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"><Run Language="th-th" Text="บาท/วัน"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="65,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="271" FontSize="30"><Run Text="ราคาของที่อย"/><Run Language="th-th" Text="ากได้"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="528,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"><Run Language="th-th" Text="บาท"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="224,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="272" FontSize="30"><Run Text="คุณต้องเก็"/><Run Language="th-th" Text="บเงินทั้งหมด"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="687,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"><Run Language="th-th" Text="วัน"/></TextBlock>
+
+    </Grid>
+</Window>
